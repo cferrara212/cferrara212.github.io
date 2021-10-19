@@ -1,0 +1,10 @@
+h1,h2,h3{
+    color:rgb(8, 8, 100);
+    margin: 5px;
+    font-family:serif;
+}
+p{
+    color:rgb(9, 9, 122);
+    size:auto;
+    font-family:'Times New Roman', Times, serif;
+}
