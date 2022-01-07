@@ -4,20 +4,20 @@
 }
 .about{
     padding: 50px;
-    padding-top: 100px;
+    padding-top: 50px;
 }
 .about-me{
     text-align: center;
 }
 .img{
     border-radius: 50%;
-    padding-top: 25%;
+    padding-top: 50px;
     padding-right: 25%;
     padding-left: 25%;
 
 }
 .name{
-    justify-content: center;
+
     text-align: center;
-    padding-top: 25%;
+    padding-top: 20%;
 }

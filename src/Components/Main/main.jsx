@@ -8,8 +8,8 @@ function Main(){
         <div className="main">
         <div className="picture row">
             <div className="col-sm">
-               <h1></h1>
-               <img className="img img-fluid" src="Img/selfportrait1.jpg" />
+               
+               <img className="img img-fluid" src="Img/selfportrait1.jpg" alt="avatar" />
             </div>
             <div className="name col-sm-4">
                 <h1>Christopher Ferrara</h1>
